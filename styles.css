@@ -4,3 +4,9 @@ header {
 p {
   color: red;
 }
+header {
+  color: blue;
+}
+p {
+  color: blue;
+}
